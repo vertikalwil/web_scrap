@@ -17,3 +17,8 @@
 
 ## RUN SCRAPY
 You can clone this repository and scrap directly by running script2.sh.
+
+## RESULT
+This is the sample preview of scrapped data.
+
+![Sample CSV](./image/sample_csv.png)

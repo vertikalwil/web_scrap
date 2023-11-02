@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = "rumah.spiders"
 RETRY_HTTP_CODES = [429]
 
 #please use your scrapeops api key
-SCRAPEOPS_API_KEY = 'xxxx-xxxx-xxxxxx'
+SCRAPEOPS_API_KEY = '123-456-789a'
 SCRAPEOPS_FAKE_BROWSER_HEADER_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 100
 
